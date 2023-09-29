@@ -1,0 +1,43 @@
+{
+  "term": "Fall",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "legacy_uid": "05af29a7-4812-ac60-aaa6-27d0067e31c7",
+  "instructors": {
+    "content": [
+      "bc3b2927-834e-eaad-e887-fe6cdfb63245"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "304ad496-1505-862d-4db1-15f5265a0ddd",
+    "website": "6-821-programming-languages-fall-2002"
+  },
+  "course_title": "Programming Languages",
+  "course_description": "6.821 teaches the principles of functional, imperative, and logic programming languages. Topics covered include: meta-circular interpreters, semantics (operational and denotational), type systems (polymorphism, inference, and abstract types), object oriented programming, modules, and multiprocessing. The course involves substantial programming assignments and problem sets as well as a significant amount of reading. The course uses the Scheme+ programming language for all of its assignments.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.821",
+  "course_image_thumbnail": {
+    "content": "bafce7c0-f660-d63c-ae9f-73e01ce6e336",
+    "website": "6-821-programming-languages-fall-2002"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Programming Assignments"
+  ],
+  "site_uid": "92772471-d228-480d-9f1e-3e2a3b509b05",
+  "site_short_id": "6.821-fall-2002",
+  "title": "Course Metadata"
+}
